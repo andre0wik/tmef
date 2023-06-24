@@ -18,6 +18,7 @@ C:\src\flutter\packages\flutter_tools\gradle\flutter.gradle
 Step 1
 
 Gestione autenticazione tramite firebase
+ -https://github.com/firebase/flutterfire/blob/master/packages/firebase_ui_auth/example/lib/config.dart
 Gestione di un pin di admin;
   tramite pin di admin  cloud
   registrare utenti in locale
