@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:579179961951:android:0a5ff5c5b0d510315ec5ea",
+        "mobilesdk_app_id": "1:579179961951:android:71e1abb1f4ad78a85ec5ea",
         "android_client_info": {
-          "package_name": "com.example.tme"
+          "package_name": "way.tmef"
         }
       },
       "oauth_client": [
