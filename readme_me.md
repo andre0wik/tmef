@@ -39,4 +39,9 @@ Rilevamento timbreature: leggo nfc, entro x secondi devo dichiarare la direzione
 rilevazioni vengono salvate in locale su un db 
 
   
-  
+flutter clean
+flutter pub cache repair
+flutter pub get
+
+## privacy policy
+https://app.termsfeed.com/download/ff703081-6fae-49f9-a254-d2d180357ecb
